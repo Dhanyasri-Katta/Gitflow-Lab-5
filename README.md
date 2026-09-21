@@ -1,3 +1,3 @@
-# Gitflow Lab 5 - Develop Version
+# Gitflow Lab 5 - Feature Version
 
-This is the develop branch version.
+This is the feature branch version.
