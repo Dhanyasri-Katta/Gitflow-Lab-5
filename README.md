@@ -1,3 +1,3 @@
-# Gitflow Lab 5
+# Gitflow Lab 5 - Feature Version
 
-This project demonstrates Gitflow using Git, GitHub and VS Code.
+This is the feature branch version.
